@@ -35,8 +35,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/ваш-репозиторий.git
-```
+
 2. В терминале перейдя в ддиректорию `public` напишите команду
-```bash
-php -S localhost:8080
-```
+   ```bash
+   php -S localhost:8080
